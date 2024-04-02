@@ -1,0 +1,11 @@
+HEIGHT = 800
+WIDTH = 800
+
+ROWS = 8
+COLS = 8
+
+SQ_SIZE = HEIGHT//COLS
+VALUE_MULTIPLICATOR = 100
+
+# GAMEMODE 0 equals human plays white
+GAMEMODE = 0
